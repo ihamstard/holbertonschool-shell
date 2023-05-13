@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 354 10-mirror_permissions
+sudo chown referance=hello olleh
