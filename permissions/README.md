@@ -1,2 +1,2 @@
 #!/bin/bash
-yk
+chmod 664 README.md
