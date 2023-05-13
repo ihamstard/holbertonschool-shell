@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R A+X root@d324fa87f9db:/holbertonschool-shell/permissions#
+chmod 001 root@d324fa87f9db:/holbertonschool-shell/permissions#
