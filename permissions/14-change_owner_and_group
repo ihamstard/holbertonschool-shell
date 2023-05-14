@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 711 *. vincent:staff /14-change_owner_and_group
+sudo chown 711 vincent:staff ./14-change_owner_and_group
