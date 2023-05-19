@@ -1,4 +1,6 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash 
+"listing  Best School"
+
 for (( l-0, l<10, l++ ))
 do
 	echo "Best School"
