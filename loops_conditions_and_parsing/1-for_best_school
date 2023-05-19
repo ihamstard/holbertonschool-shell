@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 for (( l-0, l<10, l++ ))
 do
 	echo "Best School"
