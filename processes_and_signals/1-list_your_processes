@@ -1,0 +1,7 @@
+#!/usr/bin/env bash 
+# Bash script that displays a list of current running processes
+
+function proCheck () {
+    ps
+}
+proCheck
