@@ -1,0 +1,4 @@
+#!usr/bin/env bash 
+#bash script that groups vistors by IP and HTTP stauts code, and displays the data
+
+awk '{ print $1 " " $9}' apache-access.log | sort | uniq -c | sort -ro
