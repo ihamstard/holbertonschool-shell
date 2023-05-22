@@ -7,7 +7,7 @@ while [ "$i" -gt 0 ]
 do
 	if [ "$i" -eq 1 ]
 	then
-		echo -e '#!/usr/bin/env bash\npgrep -f myscripts.pid -l > /var/run/myscript.pid
+		echo -e '#!/usr/bin/env bash\npgrep -f myscripts.pid -l > /var/run/myscript.pid'
 	fi
 	if [ "$i" -eq 2 ]
 	then
